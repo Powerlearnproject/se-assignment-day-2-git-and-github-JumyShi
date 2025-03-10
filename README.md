@@ -44,16 +44,19 @@ GitHub Issues is used for reporting bugs and requesting features and project boa
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 Merge conflicts, lack of communication and inconsistent workflow.
+
 Best practices includes:
 * Regularly pull changes
 * Code review
 * Clear and accessible documentof changes, decision and updates.
-Common pitfalls
+
+Common pitfalls:
 * Managing branches
 * Understanding workflow
 * Resolving conflicts
-Strategies employed;
+
+Strategies employed:
 * Clear commit messages
 * Learning Git basics
 * Asking for help
-* keeping repository organized
+* keeping repository organized.
