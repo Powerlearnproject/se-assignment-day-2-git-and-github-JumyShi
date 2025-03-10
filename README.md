@@ -27,13 +27,13 @@ In a typical workflow, branching involves creating isolated copies of the main c
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 A pull request is a proposal to merge a set of changes from one branch into another.
 Steps involved in creating and merging a pull request are:
-.fork main repository 
-.clone/copy maintainers project 
-.make changes locally 
-.push changes
-.make a pull request to the maintainer
-.additional commits is done and if not required pull request is approved 
-. forked repository is then merged with the main repository to update the changes made.
+* Fork main repository 
+* Clone/copy maintainers project
+* Make changes locally
+* Push changes
+* Make a pull request to the maintained
+* Additional commits is done and if not required pull request is approved
+* Forked repository is then merged with the main repository to update the changes made.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 A fork is simply making a copy of a repository in your GitHub account, while a clone is a copy of a repository on your local machine. 
@@ -43,3 +43,17 @@ Forking is used when there's a need for pull request.
 GitHub Issues is used for reporting bugs and requesting features and project boards helps to organize, manage and prioritize projects.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+Merge conflicts, lack of communication and inconsistent workflow.
+Best practices includes:
+* Regularly pull changes
+* Code review
+* Clear and accessible documentof changes, decision and updates.
+Common pitfalls
+* Managing branches
+* Understanding workflow
+* Resolving conflicts
+Strategies employed;
+* Clear commit messages
+* Learning Git basics
+* Asking for help
+* keeping repository organized
