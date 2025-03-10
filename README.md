@@ -21,7 +21,8 @@ Creating sample project, cloning repository, branching (making changes), commit 
 Commits are changes made. Commits ensure that all changes are gathered in a central repository, keeping the entire team informed about the changes.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
-
+Developers create branches for them to independently work with the copy of code without modifying the existing version (main branch) and merging the work after completing to the main branch.
+In a typical workflow, branching involves creating isolated copies of the main codebase for new features or bug fixes, allowing developers to work independently, and then merging these branches back into the main codebase once the work is complete
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
