@@ -7,8 +7,9 @@ Github is a cloud based platform that allows multiple people (developers) store,
 Version control enable developers to revert to previous version of codes or dataset easily allowing the detection and corrections of errors anytime therefore maintaining project integrity.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-To setup a new repository, you have to login to GitHub and then create new repository, name repository, choose visibility (public or private), Initialize the repository with a README and finally click on create repository.
+To setup a new repository, you have to login to GitHub and then create new repository, name repository, choose visibility (public or private), Initialize the repository with a README and finally click on create repository by committing.
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+README file ina GitHub repository allow developers understand, communicate and contribute important information about the project.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
