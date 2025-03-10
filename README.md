@@ -30,12 +30,14 @@ Steps involved in creating and merging a pull request are:
 .fork main repository 
 .clone/copy maintainers project 
 .make changes locally 
-.push canges
+.push changes
 .make a pull request to the maintainer
 .additional commits is done and if not required pull request is approved 
 . forked repository is then merged with the main repository to update the changes made.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+A fork is simply making a copy of a repository in your GitHub account, while a clone is a copy of a repository on your local machine. 
+Forking is used when there's a need for pull request.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
