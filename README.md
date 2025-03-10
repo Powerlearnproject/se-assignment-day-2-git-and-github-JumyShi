@@ -12,6 +12,9 @@ To setup a new repository, you have to login to GitHub and then create new repos
 README file ina GitHub repository allow developers understand, communicate and contribute important information about the project.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+Public repository is accessible/visible to anyone on the Internet while private repository can be only be accessed/ visible to a limited number of people.
+Public repository is good for open source projects when collaborating with others in order to receive contributions.
+Private repository is used for projects with data sensitivity or proprietary code to control who can access and modify the code.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
